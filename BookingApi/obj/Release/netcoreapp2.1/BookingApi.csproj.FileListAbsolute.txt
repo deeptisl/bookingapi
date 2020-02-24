@@ -1,0 +1,16 @@
+D:\BookingApi\BookingApi\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\BookingApi\BookingApi\bin\Release\netcoreapp2.1\appsettings.json
+D:\BookingApi\BookingApi\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+D:\BookingApi\BookingApi\bin\Release\netcoreapp2.1\BookingApi.deps.json
+D:\BookingApi\BookingApi\bin\Release\netcoreapp2.1\BookingApi.runtimeconfig.json
+D:\BookingApi\BookingApi\bin\Release\netcoreapp2.1\BookingApi.runtimeconfig.dev.json
+D:\BookingApi\BookingApi\bin\Release\netcoreapp2.1\BookingApi.dll
+D:\BookingApi\BookingApi\bin\Release\netcoreapp2.1\BookingApi.pdb
+D:\BookingApi\BookingApi\obj\Release\netcoreapp2.1\BookingApi.csprojAssemblyReference.cache
+D:\BookingApi\BookingApi\obj\Release\netcoreapp2.1\BookingApi.RazorAssemblyInfo.cache
+D:\BookingApi\BookingApi\obj\Release\netcoreapp2.1\BookingApi.RazorAssemblyInfo.cs
+D:\BookingApi\BookingApi\obj\Release\netcoreapp2.1\BookingApi.AssemblyInfoInputs.cache
+D:\BookingApi\BookingApi\obj\Release\netcoreapp2.1\BookingApi.AssemblyInfo.cs
+D:\BookingApi\BookingApi\obj\Release\netcoreapp2.1\BookingApi.RazorTargetAssemblyInfo.cache
+D:\BookingApi\BookingApi\obj\Release\netcoreapp2.1\BookingApi.dll
+D:\BookingApi\BookingApi\obj\Release\netcoreapp2.1\BookingApi.pdb
